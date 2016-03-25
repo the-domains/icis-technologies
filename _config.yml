@@ -1,0 +1,28 @@
+name: IcIs Technologies
+favicon: null
+layout_spectrum: 0.44628015346825123
+typography_spectrum: 0.42394426418468356
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6696822508238256
+  lightness: 0.40618589450605214
+  saturation: 0.4961601502727717
+  rhythmicContrast: 0.7825173486489803
+purpose: []
