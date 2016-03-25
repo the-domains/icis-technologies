@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[IcIs Technologies]]></title>
         <description><![CDATA[IcIs Technologies]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.icistech.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 05:39:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 05:40:19 GMT</lastBuildDate>
+        <atom:link href="http://www.icistech.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>OPENNESS</p>]]></description>
+            <link>http://www.icistech.com/openness/index.html</link>
+            <guid isPermaLink="false">b4575291-e301-4cbf-b305-d00ba9d27afe</guid>
+            <pubDate>Fri, 25 Mar 2016 05:40:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The latest Tweets from Jason Silva (@JasonSilva). Futurist, filmmaker, host @NatGeochannel's @BrainGames, Creator: http://t.co/xFGK0a3te6 http://t.co/oPjOHCulMC http://t.co/V54XrlFSrs</p>]]></description>
