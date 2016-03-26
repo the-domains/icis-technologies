@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[IcIs Technologies]]></title>
         <description><![CDATA[IcIs Technologies]]></description>
-        <link>http://www.icistech.com/</link>
+        <link>http://icistech.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 06:05:08 GMT</lastBuildDate>
-        <atom:link href="http://www.icistech.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 21:41:30 GMT</lastBuildDate>
+        <atom:link href="http://icistech.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["RADICAL OPENNESS" - for TEDGlobal 2012 by @JasonSilva]]></title>
+            <description><![CDATA[<article><h1>"RADICAL OPENNESS" - for TEDGlobal 2012 by @JasonSilva</h1><p>RADICAL OPENNESS - An anthem on the power of IDEAS created by @JasonSilva at Therapy Studios. Presented at TEDGlobal 2012 - http://blog.ted.com/2012/06/26/exploring-openness-in-radical-video-jason-silva-at-tedglobal2012/ Follow me on Twitter: @JasonSilva | https://twitter.com/JasonSilva More of Jason's videos: VIMEO.com/JasonSilva Email: info@thisisjasonsilva.com Inspired by the ideas of TED, Chris Anderson, Richard Dawkins, James Gleick, Matt Ridley, Steven Johnson, Kevin Kelly, Ray Kurzweil, Imaginary Foundation and many others.</p></article>]]></description>
+            <link>https://vimeo.com/38260970</link>
+            <guid isPermaLink="false">77a391c5-d116-4f90-9ba5-4c1db8fc9088</guid>
+            <pubDate>Sat, 26 Mar 2016 21:41:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Naomi Oreskes: Why we should trust scientists]]></title>
             <description><![CDATA[<article><h1>Naomi Oreskes: Why we should trust scientists</h1><p>Many of the world's biggest problems require asking questions of scientists -- but why should we believe what they say? Historian of science Naomi Oreskes thinks deeply about our relationship to belief and draws out three problems with common attitudes toward scientific inquiry -- and gives her own reasoning for why we ought to trust science.</p></article>]]></description>
@@ -23,7 +30,7 @@
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>OPENNESS</p>]]></description>
-            <link>http://www.icistech.com/openness/index.html</link>
+            <link>http://icistech.com/openness/index.html</link>
             <guid isPermaLink="false">b4575291-e301-4cbf-b305-d00ba9d27afe</guid>
             <pubDate>Fri, 25 Mar 2016 05:40:19 GMT</pubDate>
         </item>
